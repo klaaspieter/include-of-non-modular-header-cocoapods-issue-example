@@ -1,0 +1,20 @@
+{
+  "name": "framework",
+  "version": "0.0.1",
+  "summary": "A short description of framework.",
+  "license": "MIT",
+  "authors": {
+    "Klaas Pieter Annema": "klaaspieter@annema.me"
+  },
+  "social_media_url": "http://twitter.com/Klaas Pieter Annema",
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "**/*.{h,m,swift}",
+  "requires_arc": true,
+  "dependencies": {
+    "pop": [
+
+    ]
+  }
+}
